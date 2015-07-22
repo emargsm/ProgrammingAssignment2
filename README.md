@@ -1,3 +1,9 @@
+### Marguerite's RProg-030 Assignment 2.
+Submitted as part of rprog-030, July 2015. This README is the set of
+initial instructions given by Dr. Roger D. Peng. With the exception of 
+this introductory paragraph, these instructions are unchanged. All 
+comments about my own code are contained within cachematrix.R.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
